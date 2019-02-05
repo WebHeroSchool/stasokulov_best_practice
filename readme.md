@@ -1,4 +1,4 @@
-# JavaScript best practice
+﻿# JavaScript best practice
 
 1. [=== вместо ==](#===-вместо-==)
 1. [Тег script перед закрывающим тегом body](#Тег-script-перед-закрывающим-тегом-body)
